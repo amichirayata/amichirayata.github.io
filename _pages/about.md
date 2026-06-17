@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior Engineer, Qualcomm | AI Researcher, Indian Institute of Science </a>.
+subtitle: <a href='#'>Senior Engineer, Qualcomm | AI Researcher, Indian Institute of Science </a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>M. Tech, Signal Processing, Indian Institute of Science</p>
-    <p>B.E, Electronics and Telecommication, Jadavpur University</p>
+    <p>M. Tech, SP, Indian Institute of Science</p>
+    <p>B.E, ETCE, Jadavpur University</p>
     <p>Bengaluru, India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,11 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Engineer at Qualcomm and a researcher interested in Computer Vision, Generative AI, Diffusion Models, and Image Restoration.
+I am a researcher interested in Computer Vision, Generative AI, and Machine Learning. My research focuses on developing mathematically grounded learning algorithms for image understanding, restoration, and generation. I am particularly interested in self-supervised learning, computational imaging, diffusion models, representation learning, and efficient AI systems.
 
-My work focuses on developing robust machine learning methods for visual understanding, image reconstruction, and generative modeling. I am particularly interested in image denoising, representation learning, multimodal systems, and efficient deep learning architectures.
-
-I maintain this website to share my research projects, publications, technical notes, and open-source contributions.
+More broadly, I am fascinated by how principles from signal processing, optimization, probability, and statistical learning can be combined with modern deep neural networks to build robust, efficient, and trustworthy AI systems. My work spans both fundamental research and large-scale industrial applications, ranging from image restoration and inverse problems to foundation models and machine learning infrastructure.
 
 Research Interests:
 
@@ -39,9 +37,9 @@ Computer Vision
 Image Restoration
 Diffusion Models
 Generative AI
-Representation Learning
 Multimodal Learning
-Deep Learning Systems
+Federated Learning
+Medical AI
 
 Feel free to explore my projects, publications, and technical writings.
 
