@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Senior Engineer at Visual Tech Ml RnD Qualcomm | AI Researcher at Indian Institute of Science
 
 profile:
   align: right
@@ -26,6 +26,24 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+I am a Senior Engineer at Qualcomm and a researcher interested in Computer Vision, Generative AI, Diffusion Models, and Image Restoration.
+
+My work focuses on developing robust machine learning methods for visual understanding, image reconstruction, and generative modeling. I am particularly interested in image denoising, representation learning, multimodal systems, and efficient deep learning architectures.
+
+I maintain this website to share my research projects, publications, technical notes, and open-source contributions.
+
+Research Interests:
+
+Computer Vision
+Image Restoration
+Diffusion Models
+Generative AI
+Representation Learning
+Multimodal Learning
+Deep Learning Systems
+
+Feel free to explore my projects, publications, and technical writings.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
