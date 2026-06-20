@@ -27,21 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher interested in Computer Vision, Generative AI, and Machine Learning. My research focuses on developing mathematically grounded learning algorithms for image understanding, restoration, and generation. I am particularly interested in self-supervised learning, computational imaging, diffusion models, representation learning, and efficient AI systems.
+I am a researcher interested in Computer Vision, Generative AI, and energy-efficient Machine Learning. My research focuses on developing mathematically grounded learning algorithms for image understanding, restoration, and generation in an energy-efficient and hardware-compatible manner. I am currently seeking a PhD position in Generative AI, energy-efficient learning, or Medical AI.
 
-More broadly, I am fascinated by how principles from signal processing, optimization, probability, and statistical learning can be combined with modern deep neural networks to build robust, efficient, and trustworthy AI systems. My work spans both fundamental research and large-scale industrial applications, ranging from image restoration and inverse problems to foundation models and machine learning infrastructure.
+I completed my Master's in Signal Processing from the Indian Institute of Science and my Bachelor's in Electronics and Telecommunication Engineering from Jadavpur University. The strong theoretical foundation I gained from these institutions has made me deeply interested in how principles from signal processing, stochastic systems, and statistical learning can be combined with hardware and device-level knowledge to develop modern deep neural networks that are robust, efficient, and trustworthy. My work spans both fundamental research and large-scale industrial applications, ranging from image restoration and inverse problems to foundation models and machine learning infrastructure.
 
-Research Interests:
+Here are some of the topics I have worked on:
 
-Computer Vision
-Image Restoration
-Diffusion Models
-Generative AI
-Multimodal Learning
-Federated Learning
-Medical AI
+* Energy-efficient image restoration and camera ISP optimization
+* Sparse video object detection using Transformer-based architectures
+* Exploration of geographical bias in LLMs and VLMs
+* Bringing up a multi-LoRA framework on wafer-scale systems
+* EEG- and ECG-guided systems for health understanding and monitoring
+* Score-guided variational self-supervised image denoising
 
 Feel free to explore my projects, publications, and technical writings.
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
