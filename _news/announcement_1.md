@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the Camera ML Team, Qualcomm, Bangalore.
+Started a new position as a Senior Engineer with the Visual Tech ML RnD Team, Qualcomm, Bangalore. Happy to be back at research opportunities again, albeit corporate research.
