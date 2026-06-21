@@ -41,4 +41,4 @@ I am fortunate to have collaborated with various research labs at various points
 
 I am looking for research opportunities that make Machine Learning efficient, sustainable and democratic. Please feel free to connect for any conversation regarding that.
 
-
+Please reach out to me at chirayatab@iisc.alum.ac.in or bhattacharyya.chirayata@gmail.com
