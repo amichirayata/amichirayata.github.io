@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Senior Engineer, Qualcomm | AI Researcher, Indian Institute of Science </a>
 
