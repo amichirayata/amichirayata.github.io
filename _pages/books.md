@@ -1,14 +1,15 @@
 ---
-layout: book-shelf
+layout: page
 title: bookshelf
 permalink: /books/
 nav: true
-collection: books
+nav_order: 4
 ---
 
 Books are my favourite, bestest and longest friends who have always been a home since childhood. I can't think of an existence, even a virtual one like this site, without them.
 
-## Books that I am reading, have read, or will read
+Currently reading:
+
 1. **Ghost Eye** by *Amitav Ghosh*
 2. **Satgaon r Haoatantira** by *Parimal Bhattacharya*
 3. **Absolute Jafar** by *Saranath Banerjee*
