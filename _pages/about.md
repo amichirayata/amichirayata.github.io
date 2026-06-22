@@ -30,12 +30,12 @@ I completed my Master's in Signal Processing from the Indian Institute of Scienc
 
 Here are some of the topics I have worked on:
 
+* Efficient video object detection using sparse detection transformer
+* Score-guided variational solution to self-supervised inverse problems
 * Energy-efficient image restoration and camera ISP optimisation
-* Score-guided variational self-supervised inverse problems
-* Video object detection using Transformer-based sparse architectures
+* Bio-sensor guided systems for health understanding and monitoring
 * Exploration of geographical bias in LLMs and VLMs
 * Bringing up the multi-LoRA framework on wafer-scale systems
-* Bio-sensor guided systems for health understanding and monitoring
 
 I am fortunate to have collaborated with various research labs at various points in time. At Qualcomm, I work with the Visual Tech ML RnD team. I was an [IUSSTF-Viterbi research fellow](https://iusstf.org/iusstf-viterbi-program?awardCategory=573465&scroll=true) at the ECE, University of Southern California, in summer'24, and worked with Prof. [Peter Beerel](https://sites.usc.edu/eessc/research-areas/machine-learning/) on memory and energy-efficient ML. In my master's thesis, I have designed a score-based variational self-supervised image denoiser under the guidance of Prof. [Chandra Sekhar Seelamantula](https://spectrum.ee.iisc.ac.in/people/current/lab-director/css/) at EE, IISc. In a past life, I have also worked with TCS Research on designing intelligent digital health systems and with the Sir C.V. Raman Institute for Physics and Music at Jadavpur University on studies related to understanding the brain using music and EEG. 
 
