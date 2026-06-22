@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Cerebras Systems, Bangalore, as an MTS with the ML Systems team.
+🚀 Joined Cerebras Systems, Bangalore, as an MTS with the ML Systems team.
