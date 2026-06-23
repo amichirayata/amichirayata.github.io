@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher with a keen interest in **Generative AI, Energy-efficient Machine Learning, Computer Vision, and Stochastic Processes** in general. My research focuses on developing mathematically grounded learning algorithms in a KPI-efficient and hardware-compatible manner. I am currently seeking a PhD position in the allied areas of **Diffusion Models, VLMs, Efficient ML or Medical AI**.
+I am a researcher with a keen interest in **Generative AI, Energy-efficient Machine Learning in Vision,** and **Stochastic Processes** in general. My research focuses on developing mathematically grounded learning algorithms in a KPI-efficient and hardware-compatible manner. I am currently seeking a PhD position in the allied areas of **Diffusion Models, VLMs, Efficient ML** or **Medical AI**.
 
 I completed my Master's in Signal Processing from the Indian Institute of Science and my Bachelor's in Electronics and Telecommunication Engineering from Jadavpur University. The strong theoretical foundation I received from these institutions has made me deeply interested in how principles from signal processing, stochastic systems, and statistical learning can be combined with hardware and device-level knowledge to develop modern deep neural networks that are robust, efficient, and trustworthy. My work spans both fundamental research and large-scale industrial applications.
 
