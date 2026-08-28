@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-28'
 papers:
   fnFRfeMAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: Identifying cardiac abnormalities in multi-lead ECGs using hybrid neural network with fulcrum based data re-balancing
     year: '2026'
   fnFRfeMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 18
+    citations: 20
     title: 'MaskVD: Region masking for efficient video object detection'
     year: '2025'
   fnFRfeMAAAAJ:UeHWp8X0CEIC:
